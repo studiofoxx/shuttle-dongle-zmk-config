@@ -1,2 +1,2 @@
-config SHIELD_SLICEMK_ERGODOX_DONGLE
-    def_bool $(shields_list_contains,slicemk_ergodox_dongle)
+config SHIELD_AIRPORT_SHUTTLE_DONGLE
+    def_bool $(shields_list_contains,airport_shuttle_dongle)
